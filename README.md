@@ -39,7 +39,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 
 ### UI Elements
-- [slick](http://http://kenwheeler.github.io/slick/) - The last carousel you'll ever need.
+- [slick](http://kenwheeler.github.io/slick/) - The last carousel you'll ever need.
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
