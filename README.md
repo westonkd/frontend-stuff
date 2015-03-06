@@ -5,6 +5,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 
 - [UI Frameworks](#ui-frameworks)
+- [UI Elements](#ui-elements)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Text](#text)
@@ -36,6 +37,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
+
+### UI Elements
+- [slick](http://http://kenwheeler.github.io/slick/) - The last carousel you'll ever need.
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
